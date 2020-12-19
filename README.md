@@ -25,6 +25,9 @@ We have provided bounding boxes which will turn green if the image is captured c
 ## Recognizing an user
 Once the user is registered and the model is updated the program will correctly identify the user and display the User ID.
 
-You can always reach out to me [on LinkedIn.](https://www.linkedin.com/in/aditya-khambete-591158170/)
+## Additional Information and Contact me
+* You can read more about this project [here.](https://github.com/adityakhambete/Periocular-Recognition-Library/blob/master/Project%20Theory.md)
 
-You can also drop a mail [here.](mailto:aditya210699@gmail.com)
+* You can always reach out to me [on LinkedIn.](https://www.linkedin.com/in/aditya-khambete-591158170/)
+
+* You can also drop a mail [here.](mailto:aditya210699@gmail.com)

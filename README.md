@@ -28,6 +28,6 @@ Once the user is registered and the model is updated the program will correctly 
 ## Additional Information and Contact me
 * You can read more about this project [here.](https://github.com/adityakhambete/Periocular-Recognition-Library/blob/master/Project%20Theory.md)
 
-* You can always reach out to me [on LinkedIn.](https://www.linkedin.com/in/aditya-khambete-591158170/)
+* You can always reach out to me [on LinkedIn.](https://www.linkedin.com/in/adityakhambete/)
 
 * You can also drop a mail [here.](mailto:aditya210699@gmail.com)
